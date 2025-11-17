@@ -1,0 +1,14 @@
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\bin\Debug\net8.0\MaquinaCafeTDD.exe
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\bin\Debug\net8.0\MaquinaCafeTDD.deps.json
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\bin\Debug\net8.0\MaquinaCafeTDD.runtimeconfig.json
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\bin\Debug\net8.0\MaquinaCafeTDD.dll
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\bin\Debug\net8.0\MaquinaCafeTDD.pdb
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\obj\Debug\net8.0\MaquinaCafeTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\obj\Debug\net8.0\MaquinaCafeTDD.AssemblyInfoInputs.cache
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\obj\Debug\net8.0\MaquinaCafeTDD.AssemblyInfo.cs
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\obj\Debug\net8.0\MaquinaCafeTDD.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\obj\Debug\net8.0\MaquinaCafeTDD.dll
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\obj\Debug\net8.0\refint\MaquinaCafeTDD.dll
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\obj\Debug\net8.0\MaquinaCafeTDD.pdb
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\obj\Debug\net8.0\MaquinaCafeTDD.genruntimeconfig.cache
+C:\Users\andym\OneDrive\Documentos\Proyectos VS\MaquinaCafeTDD\MaquinaCafeTDD\obj\Debug\net8.0\ref\MaquinaCafeTDD.dll
